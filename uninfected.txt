@@ -1,0 +1,5 @@
+Dear ${PERSON_NAME}, 
+
+The blood samples do not show any evidence of malaria. Stay healthy and safe
+
+Have a good day !

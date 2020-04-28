@@ -1,0 +1,10 @@
+Dear ${PERSON_NAME}, 
+
+The blood samples from your test seem to be affected with pathogens of malaria. Please consult your doctor immediately.
+Please stay at home to prevent spreading the infection.
+
+Take care ! Wishing you good health !
+Have a good day ! 
+
+
+
